@@ -1,0 +1,14 @@
+asgiref==3.8.1
+Django==3.2
+django-cors-headers==4.5.0
+django-mssql-backend==2.8.1
+django-pyodbc-azure==2.1.0.0
+djangorestframework==3.12.4
+mssql-django==1.5
+mysqlclient==2.2.4
+PyMySQL==1.1.1
+pyodbc @ file:///C:/Users/anass/Downloads/pyodbc-5.1.0-cp312-cp312-win_amd64.whl#sha256=33f4984af38872e7bdec78007a34e4d43ae72bf9d0bae3344e79d9d0db157c0e
+pytz==2024.2
+setuptools==75.1.0
+sqlparse==0.5.1
+tzdata==2024.2
