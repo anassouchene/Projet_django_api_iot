@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#qkx1g6okg3dgdfw5notn56phdl-a3q3v*w%70a_8v@3zwao1e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'anass-afbzamh7gta5djfn.canadacentral-01.azurewebsites.net','*']
+ALLOWED_HOSTS = ['localhost', 'iotprojet-beexdbbehkhkhwfz.canadacentral-01.azurewebsites.net','*']
 
 
 
